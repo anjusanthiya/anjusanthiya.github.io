@@ -1,0 +1,66 @@
+.head-pic{
+    max-width: 150px;
+}
+
+
+#welcome-pic{
+    max-width: 80px;
+}
+
+.bluebg{
+    background-image: url('blue board.png'); 
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.one-stop-platform{
+    display: flex;
+}
+.talent-centric{
+    display: flex; 
+    justify-content: right;
+}
+.onestop-para{
+   margin-top: 100px;
+   color: white;
+   margin-left: 100px;
+}
+.talent-para{
+    margin-top: 80px;
+   margin-right:200px ;
+    color: white;
+}
+.consultant-container{
+  overflow: hidden;
+    background: #eaeaea;
+    color: #434343;
+    padding: 1rem;
+    border-radius: 8px;
+    z-index: 1;
+    position: relative;
+    box-sizing: border-box;
+    
+}
+.consultant-container p{
+    width: fit-content;
+   
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+
+footer{
+    justify-content: space-between;
+}
+ul a {
+    text-decoration: none;
+     color: white;
+     text-align: left;
+}
+li{
+    list-style: none;
+   
+}
